@@ -1,1 +1,1 @@
-# landingpage-practice
+# landingpage_practice
